@@ -1,3 +1,5 @@
 esta es el curso de platzy
 
 agrego esto
+
+tercer estado del archivo

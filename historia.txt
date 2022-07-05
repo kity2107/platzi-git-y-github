@@ -3,3 +3,5 @@ esta es el curso de platzy
 agrego esto
 
 tercer estado del archivo
+
+aca agrego para borrar del ultimo commit
